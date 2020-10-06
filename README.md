@@ -1,2 +1,2 @@
 # git_z
-Toto je moj prvy git
+Toto je moj prvy git hah 
